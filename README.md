@@ -6,10 +6,7 @@ This is a simple command-line based Todo List application written in Python. It 
 
 - Add tasks
 - View tasks
-- Mark tasks as complete
 - Remove tasks
-- Save tasks to file
-- Load tasks from file
 
 ## Requirements
 
